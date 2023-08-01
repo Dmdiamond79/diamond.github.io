@@ -1,0 +1,40 @@
+html,
+body {
+  background: url(header.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+  height: 3px;
+  background-color: blue;
+}
+
+h1 {
+  font-size: 3rem; 
+  color: #e2dbdb;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+}
+
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
